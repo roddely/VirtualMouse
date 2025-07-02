@@ -32,7 +32,7 @@ We recommend using a [virtual environment](https://docs.python.org/3/library/ven
 ```bash
 python -m venv venv
 ```
-# then activate it (depends on your OS)
+then activate it (depends on your OS)
 
 ### ✅ 3. Install dependencies
 ```bash
