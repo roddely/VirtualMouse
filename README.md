@@ -84,9 +84,10 @@ All dependencies are included in requirements.txt
 
 ---
 
-### 👨‍💻 Author
+## 📄 License
 
-Nguyễn Hoàng Phúc 
+This project is licensed under the [MIT License](LICENSE).
 
-GitHub: @roddely
+© 2025 Nguyễn Hoàng Phúc (roddely)
+
 
