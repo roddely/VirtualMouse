@@ -83,6 +83,8 @@ NumPy
 All dependencies are included in requirements.txt
 
 ---
+[Video demo](demo.mp4)
+---
 
 ## 📄 License
 
